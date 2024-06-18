@@ -1,5 +1,5 @@
 <h1>Hi, I'm Matike!
-<a href="https://linkedin.com/in/matike-beseke-maya2199a725b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/matike-beseke-maya-2199a725b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
