@@ -8,6 +8,9 @@
   - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Security Analyst</b>
   - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Email Phishing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - <b>Virtualization/ VMware Engineer</b>
   
 
