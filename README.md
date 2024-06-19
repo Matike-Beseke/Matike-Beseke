@@ -13,7 +13,22 @@
 
 - <b>Virtualization/ VMware Engineer</b>
   
+## Tools
 
+### Vulnerability Scanners
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-2B9AE2?style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-2B9AE2?style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rapid7-00B4F5?style=for-the-badge&logo=Rapid7&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white" />
+  </div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
