@@ -31,6 +31,10 @@
 ### Virtualization/ Sysadmin
 <div>
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper--V-0078D4?style=for-the-badge&logo=Hyper-V&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+
+
 
 </div>
 <h2> 🤳 Connect with me:</h2>
