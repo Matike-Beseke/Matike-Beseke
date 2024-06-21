@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management Analyst</b>
-  - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management Lab]([https://github.com/Matike-Beseke/Vulnerability-Management-Lab])
 - <b>Security Analyst</b>
   - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
