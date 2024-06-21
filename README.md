@@ -7,7 +7,7 @@
 - <b>Vulnerability Management Analyst</b>
   - [Vulnerability Management Lab](https://github.com/Matike-Beseke/Vulnerability-Management-Lab)
 - <b>Security Analyst</b>
-  - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [SIEM Lab](https://github.com/Matike-Beseke/SIEM-Lab/blob/main/README.md) 
   - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Email Phishing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
