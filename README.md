@@ -9,7 +9,7 @@
 - <b>Security Analyst</b>
   - [SIEM Lab](https://github.com/Matike-Beseke/SIEM-Lab/blob/main/README.md) 
 - <b>Virtualization/ VMware Engineer</b>
-  - [System Virtualization Project](https://github.com/Matike-Beseke/SIEM-Lab/blob/main/README.md)
+  - [System Virtualization Project](https://github.com/Matike-Beseke/System-Virtualization-Project/blob/main/README.md)
  
   ## Tools
 
